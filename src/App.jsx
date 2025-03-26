@@ -8,6 +8,8 @@ function App() {
     <>
     {/* Navbar section */}
       <Navbar/>
+      {/* Home section */}
+      <Home />
     </>
   )
 }
